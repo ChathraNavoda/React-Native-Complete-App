@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "test_app",
-    "slug": "test_app",
+    "name": "Goal App",
+    "slug": "goal-app",
+    "description": "This is a simple app to add goals",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/goal.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/goalSplash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

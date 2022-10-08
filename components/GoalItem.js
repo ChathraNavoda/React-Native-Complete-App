@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   goalItem: {
     margin: 8,
     borderRadius: 6,
-    backgroundColor: "#20b2aa",
+    backgroundColor: "#cd853f",
   },
   pressedItem: {
     opacity: 0.6,
