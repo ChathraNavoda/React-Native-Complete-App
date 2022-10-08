@@ -6,4 +6,4 @@ This is a simple app to add goals, view and delete.
 
 Url
 
-exp://exp.host/@chathra/goal-app?release-channel=default
+[exp://exp.host/@chathra/goal-app?release-channel=default]
